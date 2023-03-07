@@ -8,9 +8,6 @@ import com.github.javaparser.ast.visitor.VoidVisitorWithDefaults;
 import java.util.ArrayList;
 import java.util.List;
 
-
-// This class visits a compilation unit and
-// prints all private fields
 public class PrivateWithNoGetterPrinter extends VoidVisitorWithDefaults<Void> {
 
     final List<FieldDeclaration> fdList = new ArrayList<>();

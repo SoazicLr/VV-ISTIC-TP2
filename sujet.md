@@ -27,6 +27,6 @@ Feel free to use any other project you want.
 
 4. [No getter!](exercises/no-getter.md)
 
-5. [Class cohesion with JavaParser](exercises/jp-tcc.md)
+5. [Class cohesion with JavaParser](exercises/jp-tcc.md) (bonus)
 
 6. [Cyclomatic Complexity with JavaParser](exercises/jp-cc.md) (bonus)
